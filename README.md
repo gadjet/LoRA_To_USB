@@ -11,6 +11,7 @@ The hardware comprises a WIO-E5 chip from Seeedstudio connected to a USB to Seri
 You can then send or receive via the USB port on your device with the suitable software, I have included a basic application to allow you to configure, send and receive data, see below for more details.
 
 ## Software
+### The Software was written using Gemini AI
 A robust Visual Basic .NET Windows Forms application designed to interface with the **Seeed Studio Wio-E5 (LoRa-E5)** module. This tool allows for real-time LoRa P2P (Point-to-Point) communication, advanced module configuration, and direct AT command diagnostics.
 
 ## 🚀 Key Features
