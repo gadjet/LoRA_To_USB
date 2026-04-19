@@ -1,5 +1,16 @@
 # WIO-E5 LoRa Antenna Tool
 
+## Hardware
+<img width="399" height="92" alt="20260418_135637" src="https://github.com/user-attachments/assets/9b651caf-887f-4631-b0e6-f7d0d5269c82" />
+SeeedStudios Wio-E5 chip
+<img width="400" height="85" alt="20260418_135622" src="https://github.com/user-attachments/assets/9779094d-a59f-400d-8efa-187a7da1a039" />
+USB to Serial interface CH340N
+
+The hardware comprises a WIO-E5 chip from Seeedstudio connected to a USB to Serial converter allowing you to plug an antenna into your USB port on your PC / Phone or Raspberry Pi. 
+
+You can then send or receive via the USB port on your device with the suitable software, I have included a basic application to allow you to configure, send and receive data, see below for more details.
+
+## Software
 A robust Visual Basic .NET Windows Forms application designed to interface with the **Seeed Studio Wio-E5 (LoRa-E5)** module. This tool allows for real-time LoRa P2P (Point-to-Point) communication, advanced module configuration, and direct AT command diagnostics.
 
 ## 🚀 Key Features
